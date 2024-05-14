@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 100px;
+    color: deepskyblue;
+}
+
+input[type="number"] {
+    margin-top: 10px;
+    padding: 50px;
+}
+
+button {
+    margin-top: 10px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+#resposta {
+    margin-top: 50px;
+    font-weight: bold;
+}
+body{background-color: darkred;}
+p{margin-top: 250px;
+    color: #7bff00;
+}
